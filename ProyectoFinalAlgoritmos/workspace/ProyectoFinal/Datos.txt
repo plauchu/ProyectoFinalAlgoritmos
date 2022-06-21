@@ -1,0 +1,57 @@
+ Carlos V
+Nestle
+Chocolate
+10/JUN/20
+9.0
+0
+0
+Chokis Chokis
+Gamesa
+Galletas
+10/JUN/20
+15.0
+0
+1
+Boing Boing
+Pascual
+Jugo
+14/JUL/20
+18.0
+1
+0
+dedo DedoIndy
+Productos Indy
+Picoso
+10/AGO/18
+4.0
+1
+1
+Bubulubu Bubulubu
+Ricolino
+Chocolate
+10/ENE/20
+10.0
+2
+0
+LucasMango Lucas Mango
+Lucas
+Polvito
+10/FEB/20
+5.0
+2
+1
+Originales Sabritas Originales
+Sabritas
+Papas
+10/NOV/21
+12.0
+3
+0
+Larin Tin Larin
+Nestle
+Chocolate
+10/MAY/19
+8.0
+3
+1
+false
